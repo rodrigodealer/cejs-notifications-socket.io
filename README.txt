@@ -2,6 +2,10 @@
 - OS X	
 $ brew install node
 
+- Outros:
+
+https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager
+
 
 - Install NPM
 $ curl https://npmjs.org/install.sh | sh
